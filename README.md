@@ -2,6 +2,20 @@
 Curso Taller Spring Framework
 
 Proyecto de práctica de Acceso a Datos con JPA
-![image](https://github.com/user-attachments/assets/02c044fd-ef66-44de-bafc-bb6c1daad80d)
+
+Compilación y creación del JAR
+Una vez que se tenga la carpeta ResenasJPA del repositorio, se accede al directorio y se genera el paquete
+JAR ejecutando el archivo shell scripting de mvn. Luego, se ejecutar el JAR.
+
+>cd ResenasJPA 
+
+>./mvnw clean package 
+
+>java -jar ./target/ResenasJPA-0.0.1-SNAPSHOT.jar
+
+![image](https://github.com/user-attachments/assets/5c4a6394-197b-4d51-a18b-b95cee3181e6)
+
+
+
 
 
