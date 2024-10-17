@@ -9,7 +9,9 @@ JAR ejecutando el archivo shell scripting de mvn. Luego, se ejecutar el JAR.
 
 >cd ResenasJPA 
 
->./mvnw clean package 
+>./mvnw clean package
+![image](https://github.com/user-attachments/assets/421a0c7f-5aaf-4055-b986-26fe72b0bd09)
+
 
 >java -jar ./target/ResenasJPA-0.0.1-SNAPSHOT.jar
 
