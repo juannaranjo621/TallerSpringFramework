@@ -15,7 +15,8 @@ JAR ejecutando el archivo shell scripting de mvn. Luego, se ejecutar el JAR.
 
 >java -jar ./target/ResenasJPA-0.0.1-SNAPSHOT.jar
 
-![image](https://github.com/user-attachments/assets/5c4a6394-197b-4d51-a18b-b95cee3181e6)
+![image](https://github.com/user-attachments/assets/d44b90c0-d8c0-41e3-83e7-ef20c999bbea)
+
 
 
 
